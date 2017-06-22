@@ -1,0 +1,3 @@
+[21-Jun-2017 22:28:33 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home/thebi671/public_html/cosplay/login/valida_2.php on line 4
+[21-Jun-2017 22:29:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/thebi671/public_html/cosplay/login/valida_2.php on line 6
+[21-Jun-2017 22:30:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/thebi671/public_html/cosplay/login/valida_2.php on line 7

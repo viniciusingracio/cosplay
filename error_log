@@ -1,0 +1,7 @@
+[17-Jun-2017 18:27:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'Reply' (T_STRING) in /home/thebi671/public_html/cosplay/envia_email.php on line 17
+[17-Jun-2017 18:34:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'Reply' (T_STRING) in /home/thebi671/public_html/cosplay/envia_email.php on line 17
+[17-Jun-2017 18:34:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'Reply' (T_STRING) in /home/thebi671/public_html/cosplay/envia_email.php on line 17
+[17-Jun-2017 18:39:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'Reply' (T_STRING) in /home/thebi671/public_html/cosplay/envia_email.php on line 17
+[17-Jun-2017 18:40:44 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/thebi671/public_html/cosplay/envia_email.php on line 17
+[20-Jun-2017 22:48:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/thebi671/public_html/cosplay/cadastrando.php on line 9
+[20-Jun-2017 22:50:19 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'thebi671'@'br518.hostgator.com.br' (using password: YES) in /home/thebi671/public_html/cosplay/conexao.php on line 7
